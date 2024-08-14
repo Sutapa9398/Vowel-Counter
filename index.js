@@ -20,7 +20,7 @@ button.addEventListener("click", () => {
         if(count === 0){
             output.innerHTML = "There are no vowels in the text.";
         } else {
-            output.innerHTML = `The number of vowels are ${count}`;
+            output.innerHTML = `The number of vowels are ${count}`;            
         }       
     }
 })
